@@ -79,3 +79,25 @@ Tanoa - v0.1 - barely playable
 
 VR - v0.1 - barely playable
 
+
+**Discord**: [https://discord.gg/SBGrYUpvba](https://discord.gg/SBGrYUpvba)
+
+**Server Info**: 160.202.167.19:2542
+
+**Server Name**: Open Warlords
+
+Ando's Open Warlords: https://github.com/aaannnndd/OWL
+
+Open Warlords Redux'd: https://github.com/korbelz/OWLKorb
+
+Original Warlords Redux by Bohemia Interactive and Jezuro can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=1834482266&searchtext=Warlords+redux
+
+Warlords Maverick: https://github.com/korbelz/WarlordsReduxMav.altis
+
+Warlords Redux: Miller Edition: https://github.com/korbelz/WarlordsReduxMe.altis
+
+Offical Arma 3 Website: https://arma3.com/
+
+Offical Arma 3 discord: https://discord.gg/arma 
+
+All development is done live on youtube. You can see the playlist here: https://www.youtube.com/playlist?list=PLCaYbxUNEJMEQ4HLAgjv0I0lRKfhZinGG
