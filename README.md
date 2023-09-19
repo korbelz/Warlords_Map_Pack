@@ -13,29 +13,29 @@
 ### OWL "Open Warlords" 
 Altis - v1.0 - Fully playable
 
-Livonia - v0.1 - barely playable
+Livonia - v0.2 - playable
 
-Malden - v0.1 - barely playable
+Malden - v0.2 - playable
 
-Stratis - v0.1 - playable
+Stratis - v0.2 - playable
 
-Tanoa - v0.1 - barely playable 
+Tanoa - v0.2 - playable 
 
-VR - v0.1 - barely playable
+VR - v0.2 - playable
 
 
 ### OWLKorb "Open Warlords Redux'd"
 Altis - v1.0 - Fully playable
 
-Livonia - v0.1 - barely playable
+Livonia - v0.2 - playable
 
-Malden - v0.1 - barely playable
+Malden - v0.2 - playable
 
 Stratis - v0.1 - playable
 
-Tanoa - v0.1 - barely playable 
+Tanoa - v0.2 - playable 
 
-VR - v0.1 - barely playable
+VR - v0.2 - playable
 
 
 ### Redux57 "Warlords: Redux 24v24"
