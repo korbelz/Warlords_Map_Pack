@@ -8,7 +8,7 @@ class EditorData
 	toggles=514;
 	class ItemIDProvider
 	{
-		nextID=2120;
+		nextID=2122;
 	};
 	class MarkerIDProvider
 	{
@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=342;
+		nextID=346;
 	};
 	class Camera
 	{
-		pos[]={5240.7813,25.034693,2050.6387};
-		dir[]={-0.9869749,-0.082187399,-0.13838951};
-		up[]={-0.081394754,0.99661613,-0.011412771};
-		aside[]={-0.13885988,3.3738615e-008,0.99032986};
+		pos[]={2085.4456,30,1589.9834};
+		dir[]={-0.1457746,-0.23148495,0.96188122};
+		up[]={-0.034687679,0.97283155,0.22887877};
+		aside[]={0.98873353,-2.3114262e-007,0.1498474};
 	};
 };
 binarizationWanted=0;
@@ -320,7 +320,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=182;
+		items=184;
 		class Item0
 		{
 			dataType="Group";
@@ -2321,13 +2321,13 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={2138.7004,-20.38916,1920.8433};
+				position[]={2138.7,-20.389,1920.843};
 				angles[]={6.2595534,0,0.091053829};
 			};
 			init="this setVariable [""OWL_sectorParam_canBeBase"", 0];" \n "this setVariable [""OWL_sectorParam_name"", ""@STR_A3_OWL_sector_name_kavala""];" \n "this setVariable [""OWL_sectorParam_useLocationName"", false];" \n "this setVariable [""OWL_sectorParam_side"", 1];" \n "this setVariable [""OWL_sectorParam_income"", 100];" \n "this setVariable [""OWL_sectorParam_fastTravelEnabled"", true];" \n "this setVariable [""OWL_sectorParam_borderSize"", 200]; " \n "this setVariable [""OWL_sectorParam_assetRequirements"", ""AHW""];" \n "this setVariable [""OWL_sectorParam_airportID"", 6];";
 			id=564;
 			type="Logic";
-			atlOffset=-25.38916;
+			atlOffset=-25.389;
 		};
 		class Item85
 		{
@@ -6552,20 +6552,20 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={5032.1567,-7.9165325,1870.8418};
+				position[]={5032.1572,-7.9169998,1870.842};
 				angles[]={0,0.51415652,0};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
-				init="this setObjectScale 2.0";
+				name="carriereight";
 				createAsLocalObject=1;
 				disableSimulation=1;
 			};
 			id=2018;
 			type="Land_Carrier_01_base_F";
-			atlOffset=-12.916533;
+			atlOffset=-12.917;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -6756,7 +6756,7 @@ class Mission
 			};
 			id=2027;
 			type="Land_HelipadEmpty_F";
-			atlOffset=0.36483669;
+			atlOffset=0.36530399;
 		};
 		class Item124
 		{
@@ -6771,7 +6771,7 @@ class Mission
 			};
 			id=2028;
 			type="Land_HelipadEmpty_F";
-			atlOffset=0.2983284;
+			atlOffset=0.2987957;
 		};
 		class Item125
 		{
@@ -7294,20 +7294,20 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={1763.6417,-13.483244,6907.2065};
+				position[]={1763.642,-13.483,6907.207};
 				angles[]={0,0.51415652,0};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
-				init="this setObjectScale 2.0";
+				name="carrierseven";
 				createAsLocalObject=1;
 				disableSimulation=1;
 			};
 			id=2054;
 			type="Land_Carrier_01_base_F";
-			atlOffset=-18.483244;
+			atlOffset=-18.483;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -7483,7 +7483,7 @@ class Mission
 			};
 			id=2059;
 			type="Land_HelipadEmpty_F";
-			atlOffset=0.16987801;
+			atlOffset=0.16963387;
 		};
 		class Item146
 		{
@@ -7514,7 +7514,7 @@ class Mission
 			};
 			id=2062;
 			type="Land_HelipadEmpty_F";
-			atlOffset=0.0091915131;
+			atlOffset=0.0089473724;
 		};
 		class Item148
 		{
@@ -7593,13 +7593,14 @@ class Mission
 			dataType="Object";
 			class PositionInfo
 			{
-				position[]={1877.8761,0,1718.4014};
+				position[]={1877.876,0,1718.401};
 				angles[]={0,1.5707964,0};
 			};
 			side="Empty";
 			flags=4;
 			class Attributes
 			{
+				name="carriersix";
 				createAsLocalObject=1;
 				disableSimulation=1;
 			};
@@ -7997,13 +7998,13 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={5063.7622,-7.6825085,1898.0195};
+				position[]={5063.7622,-7.6829996,1898.02};
 				angles[]={6.2595534,0,0.091053829};
 			};
 			init="this setVariable [""OWL_sectorParam_canBeBase"", 0];" \n "this setVariable [""OWL_sectorParam_name"", ""@STR_A3_OWL_sector_name_south_carrier""];" \n "this setVariable [""OWL_sectorParam_useLocationName"", false];" \n "this setVariable [""OWL_sectorParam_side"", 1];" \n "this setVariable [""OWL_sectorParam_income"", 100];" \n "this setVariable [""OWL_sectorParam_fastTravelEnabled"", true];" \n "this setVariable [""OWL_sectorParam_borderSize"", 200]; " \n "this setVariable [""OWL_sectorParam_assetRequirements"", ""AHW""];" \n "this setVariable [""OWL_sectorParam_airportID"", 8];";
 			id=2093;
 			type="Logic";
-			atlOffset=-12.682508;
+			atlOffset=-12.683;
 		};
 		class Item167
 		{
@@ -8245,6 +8246,78 @@ class Mission
 			id=2116;
 			type="Land_HelipadEmpty_F";
 			atlOffset=-19.101807;
+		};
+		class Item182
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={5095.0371,7.0602527,2054.7512};
+				angles[]={0.1720701,5.2156153,6.1911235};
+			};
+			side="Empty";
+			flags=1;
+			class Attributes
+			{
+				createAsLocalObject=1;
+				disableSimulation=1;
+			};
+			id=2120;
+			type="Land_Pier_F";
+			atlOffset=4.4083786;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="allowDamage";
+					expression="_this allowdamage _value;";
+					class Value
+					{
+						class data
+						{
+							singleType="BOOL";
+							value=0;
+						};
+					};
+				};
+				nAttributes=1;
+			};
+		};
+		class Item183
+		{
+			dataType="Object";
+			class PositionInfo
+			{
+				position[]={5114.9844,-0.98991823,2090.1536};
+				angles[]={0.17198506,5.2165399,6.1909637};
+			};
+			side="Empty";
+			flags=5;
+			class Attributes
+			{
+				createAsLocalObject=1;
+				disableSimulation=1;
+			};
+			id=2121;
+			type="Land_Pier_F";
+			atlOffset=-3.6417923;
+			class CustomAttributes
+			{
+				class Attribute0
+				{
+					property="allowDamage";
+					expression="_this allowdamage _value;";
+					class Value
+					{
+						class data
+						{
+							singleType="BOOL";
+							value=0;
+						};
+					};
+				};
+				nAttributes=1;
+			};
 		};
 	};
 	class Connections
