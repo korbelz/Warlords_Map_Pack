@@ -92,6 +92,8 @@ Open Warlords Redux'd: https://github.com/korbelz/OWLKorb
 
 Original Warlords Redux by Bohemia Interactive and Jezuro can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=1834482266&searchtext=Warlords+redux
 
+Original Warlords Maps by Bohemia Interactive and Jezuro can be found here: https://steamcommunity.com/sharedfiles/filedetails/?id=462357997
+
 Warlords Maverick: https://github.com/korbelz/WarlordsReduxMav.altis
 
 Warlords Redux: Miller Edition: https://github.com/korbelz/WarlordsReduxMe.altis
