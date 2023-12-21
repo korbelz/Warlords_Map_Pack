@@ -41,43 +41,43 @@ VR - v0.2 - playable
 ### Redux57 "Warlords: Redux 24v24"
 Altis - v1.0 - Fully playable
 
-Livonia - v0.1 - barely playable
+Livonia - v0.1 - playable
 
-Malden - v0.1 - barely playable
+Malden - v0.1 - playable
 
 Stratis - v0.1 - playable
 
-Tanoa - v0.1 - barely playable 
+Tanoa - v0.1 - playable 
 
-VR - v0.1 - barely playable
+VR - v0.1 - playable
 
 
 ### WarlordsReduxMav "Warlords: Maverick"
 Altis - v1.0 - Fully playable
 
-Livonia - v0.1 - barely playable
+Livonia - v0.1 - playable
 
-Malden - v0.1 - barely playable
+Malden - v0.1 - playable
 
 Stratis - v0.1 - playable
 
-Tanoa - v0.1 - barely playable 
+Tanoa - v0.1 - playable 
 
-VR - v0.1 - barely playable
+VR - v0.1 - playable
 
 
 ### WarlordsReduxME "Warlords Redux: Miller Edition"
 Altis - v1.0 - Fully playable
 
-Livonia - v0.1 - barely playable
+Livonia - v0.1 - playable
 
-Malden - v0.1 - barely playable
+Malden - v0.1 - playable
 
 Stratis - v0.1 - playable
 
-Tanoa - v0.1 - barely playable 
+Tanoa - v0.1 - playable 
 
-VR - v0.1 - barely playable
+VR - v0.1 - playable
 
 
 **Discord**: [https://discord.gg/SBGrYUpvba](https://discord.gg/SBGrYUpvba)
