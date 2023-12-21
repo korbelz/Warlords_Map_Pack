@@ -1,5 +1,5 @@
 # Warlords_Map_Pack
- Pack of 60 Warlords maps to help mission makers 
+ Pack of 72 Warlords maps to help mission makers 
 
 ## All sectors folder:
 
