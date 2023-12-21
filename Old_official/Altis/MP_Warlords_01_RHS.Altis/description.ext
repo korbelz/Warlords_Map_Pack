@@ -1,0 +1,9 @@
+#include "\A3\JEZ_Warlords\defaultDescription.hpp"
+#include "\A3\JEZ_Warlords\cfgMissionParams.hpp"
+
+class Header
+{
+	gameType = SC;
+	minPlayers = 1;
+	maxPlayers = 32;
+};

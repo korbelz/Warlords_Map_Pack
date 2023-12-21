@@ -1,0 +1,19 @@
+onLoadMission = "Capture sectors. Through them, advance to the enemy base and raid it. Parameters allow you to change various rules within the mission.";
+onLoadName = "Warlords";
+loadScreen = "A3\JEZ_Warlords\data\wl_logo_ca.paa";
+overviewPicture = "A3\JEZ_Warlords\data\wl_logo_ca.paa";
+overviewText = "Capture sectors. Through them, advance to the enemy base and raid it. Parameters allow you to change various rules within the mission.";
+author = "Jezuro";
+dev = "Jezuro";
+respawn = "BASE";
+respawnDelay = 20;
+//disabledAI = 1;
+
+class Header
+{
+	gameType = SC;
+	minPlayers = 1;
+	maxPlayers = 32;
+};
+
+#include "\A3\JEZ_Warlords\cfgMissionParams.hpp"
